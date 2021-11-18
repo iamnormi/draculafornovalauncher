@@ -12,7 +12,7 @@ Dracula theme Made By Myself for [Nova Launcher](https://novalauncher.com/) (And
 
 All instructions can be found at [**install.md**](https://github.com/iamvk1437k/Dracula_for_Nova_Launcher/blob/main/install.md).
 
-## Dev = Myself
+## Dev = 1'43
 This theme is maintained by [**1437k**](https://github.com/iamvk1437k).
 
 [![1437k](https://github.com/iamvk1437k.png?size=100)](https://github.com/iamvk1437k) |
