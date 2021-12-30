@@ -1,4 +1,4 @@
-# Dracula_for_Nova_Launcher
+# DraculaforNovalauncher
 Dracula theme Made By Myself for [Nova Launcher](https://novalauncher.com/) (Android).
 ## Kinda of Fork of [nova_launcher](https://github.com/dracula/nova_launcher).
 
